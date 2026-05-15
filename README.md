@@ -100,8 +100,8 @@ Before you begin, ensure your development environment meets the following requir
 ### Step 1: Clone the Repository
 Open your terminal or command prompt and run:
 ```bash
-git clone https://github.com/AlphaDoc1/PrathamChikitse.git
-cd PrathamChikitse
+git clone https://github.com/pavankumarg971-sketch/Pratham_Chikitse_1.git
+cd Pratham_Chikitse_1
 ```
 
 ### Step 2: Open in Android Studio
@@ -171,6 +171,6 @@ We welcome contributions to make Pratham Chikitse a robust global medical tool!
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 **Contact & Support:**
-- Issue Tracker: [GitHub Issues](https://github.com/AlphaDoc1/PrathamChikitse/issues)
-- Maintainer: AlphaDoc1 / Development Team
+- Issue Tracker: [GitHub Issues](https://github.com/pavankumarg971-sketch/Pratham_Chikitse_1/issues)
+- Maintainer: pavan1234 / Development Team
 - Design & Architecture: Health Application Foundation
